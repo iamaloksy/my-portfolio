@@ -1,6 +1,6 @@
 <h2 align="center">Portfolio - Website </h2>
 
-![Alt text](portfolio-1.png)
+![Alt text](images/portfolio.png)
 <h4 align="center"> Website </h4>
 
 <p align="center">
@@ -24,7 +24,7 @@ Here Is My Personal Website Source Code You Can Copy My Code For Some Idea To De
 
 ### [+] Preview
 
-![website](preview.gif)
+![website](images/preview.gif)
 
 ### [+] Credits 
 <a href="https://github.com/iamaloksy/">IAMALOKSY</a>
